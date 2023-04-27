@@ -138,5 +138,5 @@ Security
 
 # Images
 *Screenshot Capture*
-# CSV Files 
-*.csv
+# CSV Files
+user_response*
